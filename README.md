@@ -107,20 +107,8 @@ The frontend application will be running at http://localhost:3000.
 Register a New User:
 
 Go to the registration page and enter your name, email, and password.
-After successful registration, you will be redirected to the login page.
-Login:
 
-Log in using your email and password.
-Upon successful login, you will be redirected to the dashboard where you can manage your submissions.
-Submit an Interview Experience:
-
-On the dashboard, fill in the submission form with details such as company, country, and interview questions.
-Click the "Submit" button to save your interview experience.
-View Submitted Experiences:
-
-All submitted experiences are listed on the dashboard.
-You can search for experiences based on the company name.
-API Endpoints
+### API Endpoints
 
 1. POST /api/auth/register
    Description: Register a new user.
@@ -171,19 +159,7 @@ API Endpoints
    Test Cases
    Submission Creation:
 
-Test with valid and invalid input data to ensure the submission is correctly stored in the database.
-Submission Retrieval:
 
-Retrieve all submissions and verify the correct data is returned.
-Test pagination functionality for large datasets.
-Contributing
-Fork the repository.
-Create a new branch (git checkout -b feature-name).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-name).
-Create a new Pull Request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgements
 
