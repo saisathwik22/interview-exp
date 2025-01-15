@@ -1,5 +1,8 @@
 # Interview Experience Dashboard
 
+Link to Loom video
+[project walkthrough](https://www.loom.com/share/be36b34ce1dc460b903444784247b4b7?sid=6577b473-d026-4268-81b1-1fb24052b327)
+
 This project is a web application where users can submit and view their interview experiences. The application allows users to register, log in, and submit their interview experiences with details such as company, country, interview questions, etc. It provides a dashboard where users can view their submissions and search for others’ experiences.
 
 The project is built using **ReactJS** for the frontend and **Node.js** with **MongoDB** for the backend.
